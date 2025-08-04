@@ -55,9 +55,9 @@ open RecovR/RecoverRight.xcodeproj
 ## 👨‍⚕️ Sample Screens
 
 <p align="center">
-  <img src="R1.png"/>
-  <img src="R2.png"/>
-  <img src="R3.png"/>
+  <img src="R1.png width="250""/>
+  <img src="R2.png width="250""/>
+  <img src="R3.png width="250""/>
 </p>
 
 ---
